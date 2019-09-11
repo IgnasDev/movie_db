@@ -1,0 +1,8 @@
+.option-label {
+    display: flex;
+    flex-direction: column;
+}
+
+.option-select {
+    margin: .5rem 0;
+}
